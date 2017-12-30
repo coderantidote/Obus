@@ -1,4 +1,4 @@
-![obus](http://www.milatgazetesi.com/resim/detay/9/92736.jpg)<br>
+![obus](https://i.ytimg.com/vi/WCOS9QejlSo/maxresdefault.jpg)<br>
 **Obus v1**
  
 > Multi Trigger<br>
