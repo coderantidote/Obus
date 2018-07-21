@@ -7,7 +7,7 @@ for( $i = 0;$i <$sayi;$i++){
 $fp = fsockopen( $site,80,$errno,$errstr,30 );
 if( $fp )
 {
-$out  = 'GET /'.$path." HTTP/1.1
+$out  = $_GET['method'].' /'.$path." HTTP/1.1
 ";
 $out .= 'Host: '.$site."
 ";
