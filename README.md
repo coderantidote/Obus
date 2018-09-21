@@ -1,6 +1,3 @@
-
-![turkish](https://i.ytimg.com/vi/WCOS9QejlSo/maxresdefault.jpg)
-<br>
 **Obus v2**
  
 > Multi Trigger<br>
